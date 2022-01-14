@@ -1,4 +1,3 @@
-from msilib.schema import Error
 from django.shortcuts import render
 import youtube_dl
 from django.contrib import messages
